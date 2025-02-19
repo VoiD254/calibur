@@ -12,6 +12,9 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily: {
+        excalifont: ['Excalifont', 'sans-serif']
+      }
     },
   },
   plugins: [],
